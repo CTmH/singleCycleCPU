@@ -1,2 +1,3 @@
 /singleCycleCPU.*
 /example
+!/singleCycleCPU.xpr
